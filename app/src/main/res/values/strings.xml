@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internship Assignment</string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+</resources>
